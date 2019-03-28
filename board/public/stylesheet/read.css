@@ -1,0 +1,19 @@
+.NameDiv {
+    width: 50%;
+    float: left;
+}
+
+.DateDiv {
+    width: 50%;
+    float: right;
+}
+
+.write:hover {
+    color: #ffffff;
+    background-color: #343a40!important;
+}
+
+.write {
+    color: #343a40;
+    border-color: #343a40!important;
+}

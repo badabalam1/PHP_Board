@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.header{
+    width: 100vw;
+    height: 100px;
+    background-color: skyblue;
+}
+.login{
+    position: relative;
+    text-align: center;
+    margin: 150px 0 0 35%;
+}
+
+.title{
+    margin: 0px 0px 0px -700px;
+    position: relative;
+}
+
+.id, .pw, .button {
+    position: relative;
+    width: 550px;
+    height: 50px;
+}
+
+.id {
+    margin: 0 0 15px 0;
+}
+
+.pw {
+    margin: 0 0 40px 0;
+}
+
+input {
+    font-size: 15px;
+    padding-left: 15px;
+    height: 100%;
+    width: 100%;
+}

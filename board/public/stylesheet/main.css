@@ -1,0 +1,48 @@
+.table {
+    text-align: center;
+}
+
+.t_one {
+    width: 500px;
+}
+
+.notice {
+    padding: 0 200px 0 200px;;
+}
+
+.table_header {
+    color: #fff;
+    background-color: #343a40!important;
+}
+
+.page-link {
+    color: #212529;
+}
+
+.active .page-link{
+    border-color: #343a40!important;
+    background-color: #343a40!important;
+}
+
+.write:hover {
+    color: #ffffff;
+    background-color: #343a40!important;
+}
+.write {
+    float: right;
+    color: #343a40;
+    border-color: #343a40!important;
+}
+
+.number {
+    margin-top: 30px;
+}
+
+@media all and (min-width: 300px) and (max-width: 1000px) {
+    .notice {
+        padding: 0px;
+    }
+    .form-control {
+        width: 75%;
+    }
+}

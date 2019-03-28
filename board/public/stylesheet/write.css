@@ -1,0 +1,15 @@
+.form-signin {
+    max-width: 1500px;
+    margin-top: 30px;
+}
+
+#inputFile {
+    margin-top: -50px;
+    z-index: 1;
+    padding-left: 85px;
+    padding-top: 3px;
+    font-size: 23px;
+    right: 0px;
+    top: 0px;
+    opacity: 0;
+}
